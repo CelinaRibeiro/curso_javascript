@@ -17,6 +17,7 @@ console.log(frutas);
 const numeros = [1, 2, 3, 4, 5, 6];
 
 //find => retorna o primeiro elemento do critério
+//const numeros = [1, 2, 3, 4, 5, 6];
 const numeroPar = numeros.find((num) => num % 2 === 0);
 console.log(numeroPar);
 
